@@ -1,8 +1,8 @@
-#stepper
+# Stepper
 
-Projet test pour moteur pas-à-pas.
+Projet test pour moteurs pas-à-pas.
 
-## installation
+## Installation
 ```
 git clone https://github.com/Erinell/stepper.git
 ```
